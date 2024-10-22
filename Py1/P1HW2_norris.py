@@ -21,5 +21,6 @@ budget = float(input("What is your travel budget? $ "))
 # Where are they going
 destination = input("Where are you going? ")
 
+
 # TODO: the rest
 print("Your budget: $", format(budget,".2f"))
